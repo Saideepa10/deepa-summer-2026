@@ -39,7 +39,7 @@ void grade_calculator()
     int marks;
 
     printf("Enter the marks:");
-    if(marks >= 0)
+    if(marks != 0)
     {
         scanf("%d", &marks);
 
