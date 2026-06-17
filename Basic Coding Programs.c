@@ -121,11 +121,11 @@ int main()
 {
     int num;
 
-    printf("Enter 1 for temp_converter  "
+    printf("Enter 1 for temp_converter,  "
            "2 for even_odd classifier, "
            "3 for grade_calculator, "
            "4 for l_year, "
-           "and 5 for calculator");
+           "and 5 for calculator: ");
 
     scanf("%d", &num);
 
